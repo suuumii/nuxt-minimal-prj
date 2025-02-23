@@ -1,6 +1,13 @@
 # Nuxt Minimal Starter
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Technologies Used
+
+This project uses the following technologies:
+
+- [Nuxt 3](https://nuxt.com/) - The latest Nuxt framework
+- [Nuxt ESLint](https://github.com/nuxt/eslint-config) - ESLint configuration for Nuxt
+- [Vuetify](https://vuetifyjs.com/) - Material Design component framework for Vue.js
+- [Storybook](https://storybook.js.org/) - Tool for developing and testing UI components
 
 ## Setup
 
